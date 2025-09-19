@@ -1,4 +1,4 @@
-#Task Manager
+# Task Manager
 
 **Description**:
 A full-stack task management web application that allows users to create, update, delete, and track tasks efficiently. The project is designed to provide a simple and intuitive interface for organizing daily tasks, ensuring a seamless user experience and persistent data storage.
