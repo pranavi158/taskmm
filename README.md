@@ -3,7 +3,7 @@
 
 **Description**:
 
-A full-stack task management web application that allows users to create, update, delete, and track tasks efficiently. It also includes authentication which stores the User's details when registering and acts as authentication while logging in. The project is designed to provide a simple and intuitive interface for organizing daily tasks, ensuring a seamless user experience and persistent data storage. 
+A deployed full-stack task management web application that allows users to create, update, delete, and track tasks efficiently. It also includes authentication which stores the User's details when registering and acts as authentication while logging in. The project is designed to provide a simple and intuitive interface for organizing daily tasks, ensuring a seamless user experience and persistent data storage. 
 
 
 **Tech Stack**:
